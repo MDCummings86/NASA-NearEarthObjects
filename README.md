@@ -30,10 +30,11 @@ https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects
 
 4. **Data Exploration**
    - Perform exploratory data analysis (EDA) to understand the characteristics of the dataset.
-       a) 
+       a)![DFDescription](https://github.com/MDCummings86/NASA-NearEarthObjects/assets/126340452/f29546cd-46db-43c1-a7c0-47e9239acbb3)
    - Visualize the data using appropriate plots, charts, or graphs.
-       a)![ alt text for screen readers](/Users/mdcummings/Desktop/Data Analysis/My Projects/NASA - Nearest Earth Objects/NASA-NearEarthObjects/DFDescription.png  "Figure 1")
-       b) ![ alt text for screen readers](/Users/mdcummings/Desktop/Data Analysis/My Projects/NASA - Nearest Earth Objects/NASA-NearEarthObjects/AbMagRidge.png "Figure 1")
-       c)RVAMlinregress.png ![ alt text for screen readers](/Users/mdcummings/Desktop/Data Analysis/My Projects/NASA - Nearest Earth Objects/NASA-NearEarthObjects/RVAMlinregress.png "Figure 1")
+       b)![heatmap](https://github.com/MDCummings86/NASA-NearEarthObjects/assets/126340452/c0bbab97-12c8-46a8-ad36-af0d53f9a584)
+       c)![AbMagRidge](https://github.com/MDCummings86/NASA-NearEarthObjects/assets/126340452/5fcf16fc-cab9-4852-a6ee-077179087273)
+       d)![RVAMlinregress](https://github.com/MDCummings86/NASA-NearEarthObjects/assets/126340452/0809581d-72de-4596-a70b-91ef1ed9df44)
+
    - Identify any patterns, trends, or outliers in the data.
 
