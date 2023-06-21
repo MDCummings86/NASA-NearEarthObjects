@@ -4,7 +4,7 @@ https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects
 1. **An Analysis of Nearest Earth Objects**
    - In this project, I aim to:
        a)clean the data set
-       b)understand the minimum, maximum, mean, quartiles, and standard deviation of the numeric columns
+       b)understand the minimum, maximum, mean, quartiles, and standard deviation of the numeric columns representing the min and max estimated diameter, relative velocity, miss distance, and absolute magnitude.
        c)understand the distribution of objects by absolute magnitude and maximum estimated distance
        d)understand whether the maximum estimated diameter is on average higher for hazardous or non-hazardous objects 
 
@@ -29,12 +29,12 @@ https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects
         - Discuss any data cleaning or preprocessing steps performed.
 
 4. **Data Exploration**
-   - Perform exploratory data analysis (EDA) to understand the characteristics of the dataset.
-       a)![DFDescription](https://github.com/MDCummings86/NASA-NearEarthObjects/assets/126340452/f29546cd-46db-43c1-a7c0-47e9239acbb3)
+   - Perform Exploratory Data Analysis (EDA) to understand the characteristics of the dataset.
+       a)![DFDescription](https://github.com/MDCummings86/NASA-NearEarthObjects/assets/126340452/f29546cd-46db-43c1-a7c0-47e9239acbb3.png?raw=true)
    - Visualize the data using appropriate plots, charts, or graphs.
        b)![heatmap](https://github.com/MDCummings86/NASA-NearEarthObjects/assets/126340452/c0bbab97-12c8-46a8-ad36-af0d53f9a584)
-       c)![AbMagRidge](https://github.com/MDCummings86/NASA-NearEarthObjects/assets/126340452/5fcf16fc-cab9-4852-a6ee-077179087273)
-       d)![RVAMlinregress](https://github.com/MDCummings86/NASA-NearEarthObjects/assets/126340452/0809581d-72de-4596-a70b-91ef1ed9df44)
+       c)![AbMagRidge](https://github.com/MDCummings86/NASA-NearEarthObjects/assets/126340452/5fcf16fc-cab9-4852-a6ee-077179087273.png?raw=true)
+       d)![RVAMlinregress](https://github.com/MDCummings86/NASA-NearEarthObjects/assets/126340452/0809581d-72de-4596-a70b-91ef1ed9df44.png?raw=true)
 
    - Identify any patterns, trends, or outliers in the data.
 
