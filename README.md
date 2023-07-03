@@ -21,7 +21,7 @@ https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects
             est_diameter_min: Minimum Estimated Diameter in Kilometres
             est_diameter_max: Maximum Estimated Diameter in Kilometres
            relative_velocity: Velocity Relative to Earth
-               miss_distance: Distance in Kilometres missed
+               miss_distance: Distance in Kilometers missed
                orbiting_body: Planet that the asteroid orbits
                sentry_object: Included in sentry - an automated collision monitoring system
           absolute_magnitude: Describes intrinsic luminosity
